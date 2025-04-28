@@ -2,7 +2,6 @@
 
 Um player de música nostálgico focado nas melhores músicas dos anos 2000. Desenvolvido com React, este app traz de volta as melhores lembranças musicais da década.
 
-![App Preview](https://i.imgur.com/placeholder.png)
 
 ## 🚀 Funcionalidades
 
